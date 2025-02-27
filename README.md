@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Catsmithva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Dvm.Sheta.dev
+- 👀 I’m interested in making a breakthrough in animal health care & AI
+- 🌱 I’m currently learning coding, programming 
+- 💞️ I’m looking to collaborate on all projects
+- 📫 How to reach me @dvmshetadv@duck.com
+- 😄 Pronouns:he/him
+- ⚡ Fun fact🫀
 
-<!![webui-light](https://github.com/user-attachments/assets/f29d0e18-19f4-40f8-85ba-463ac4adcad3)
----
-Catsmithva/Catsmithva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!![webui-light
+--
+Dvmshetadv/Dvmshetadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
